@@ -1,5 +1,5 @@
 # DATA-ANALYST-INTERNSHIP-
-This dataset contains detailed metadata for 40 Netflix TV shows, curated and cleaned for analysis. Each row represents a unique show, identified by a showid, and includes attributes related to production, release, and genre.
+Im currently learning how a Data Analyst work in the field of Data and also Im gaining new experiences in Data Analyst.
 
 # Netflix TV Shows Dataset
 
